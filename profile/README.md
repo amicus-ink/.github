@@ -4,6 +4,8 @@
 
 AMICUS is based on a set of source-grounded method checklists for empirical social science. Each checklist is built from the methods literature, either on general research design, or on a specific research design (instrumental variables, difference-in-differences, conjoint experiments, and so on). A language model reads the text of your paper, decides which designs it uses, and works through the matching checklist check by check. The output is an author-facing report. It tells you what the language model thinks you haven't yet done, and gives the citations for the sources.
 
+AMICUS will always be free and open.
+
 - **Site:** [amicus.ink](https://amicus.ink)
 - **Checklists, plugins and code:** [amicus-ink/amicus-ink](https://github.com/amicus-ink/amicus-ink)
 - **Run it:** in an online chatbot, or as a plugin in Claude Code or Codex. See [Run it](https://amicus.ink/run.html).
