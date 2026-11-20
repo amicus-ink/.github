@@ -11,6 +11,6 @@ AMICUS is based on a set of source-grounded method checklists for empirical soci
 
 If you use AMICUS, please cite:
 
-Chau, Tak-Huen, and Andrew T Little. 2026. "Peer Review and the Technical Soundness of Research: Evidence from Automated Audits of Political Science Working Papers". [osf.io/preprints/socarxiv/zk26u_v1](https://osf.io/preprints/socarxiv/zk26u_v1).
+Chau, Tak-Huen, and Andrew T Little. 2026. "Peer Review and the Technical Soundness of Research: Evidence from Automated Audits of Political Science Working Papers". https://osf.io/preprints/socarxiv/zk26u.
 
 Tak-Huen Chau and Andrew T. Little.
